@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tanupreet21/COMP3104/static/css/main.27ca76a1.css",
+    "main.js": "/tanupreet21/COMP3104/static/js/main.1c6ecd52.js",
+    "static/js/453.963c96ea.chunk.js": "/tanupreet21/COMP3104/static/js/453.963c96ea.chunk.js",
+    "index.html": "/tanupreet21/COMP3104/index.html",
+    "main.27ca76a1.css.map": "/tanupreet21/COMP3104/static/css/main.27ca76a1.css.map",
+    "main.1c6ecd52.js.map": "/tanupreet21/COMP3104/static/js/main.1c6ecd52.js.map",
+    "453.963c96ea.chunk.js.map": "/tanupreet21/COMP3104/static/js/453.963c96ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.1c6ecd52.js"
+  ]
+}
